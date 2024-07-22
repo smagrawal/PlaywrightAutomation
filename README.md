@@ -5,8 +5,8 @@ I have used playwright framework to automation the positive flow of SauceLab dem
 # Install dependancies using below command
 npm install
 
-#Run the test 
+# Run the test 
 npx playwright test SuaceLabAssessment.spec.ts --headed
 
-#Generate default html report provided by playwright
+# Generate default html report provided by playwright
   npx playwright show-report
